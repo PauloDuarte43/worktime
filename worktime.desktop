@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=WorkTime
+Comment=Calcula tempo de trabalho
+Exec=python /home/paulo/Documentos/worktime/main.py
+Icon=/home/paulo/Documentos/worktime/icon.png
+Terminal=false
+Type=Application
+Categories=Utility;Application;
